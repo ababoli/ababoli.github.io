@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'An example conference paper of mine'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Equal contribution1'
+  - 'Equal contribution2'
 
 date: '2013-07-01T00:00:00Z'
 doi: ''
