@@ -190,5 +190,4 @@ awards:
 ---
 
 ## About Me
-
 Abdullah Sajjad is an AI Researcher. His research interests include Generative AI, Large Language Models, and Diffusion Models.
