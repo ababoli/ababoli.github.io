@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Abdullah
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Abdullah
+last_name: Sajjad
 
 # Status emoji
 status:
@@ -24,8 +24,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Roots Mellenium
+    url: https://ababoli.github.io
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
